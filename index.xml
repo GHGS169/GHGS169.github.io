@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>某人的博客</title>
+    <link>https://GHGS169.github.io/</link>
+    <description>Recent content on 某人的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>utf-8</language>
+    <lastBuildDate>Tue, 31 Dec 2019 16:38:03 +0800</lastBuildDate>
+    
+	<atom:link href="https://GHGS169.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>https://GHGS169.github.io/post/first/</link>
+      <pubDate>Tue, 31 Dec 2019 16:38:03 +0800</pubDate>
+      
+      <guid>https://GHGS169.github.io/post/first/</guid>
+      <description>第一次上传 F2A</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://GHGS169.github.io/about/</link>
+      <pubDate>Tue, 31 Dec 2019 15:32:39 +0800</pubDate>
+      
+      <guid>https://GHGS169.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
